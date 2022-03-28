@@ -1,4 +1,4 @@
-# MapTalks Issues
+# Issues
 
 maptalks官方bug管理仓库，可以在issue中提交maptalks相关的任何issue。
 
